@@ -1,5 +1,13 @@
 # Issue Template
 
+## What is an issue template?
+
+[Issue and Pull Request templates](https://blog.github.com/2016-02-17-issue-and-pull-request-templates/)
+
+## How to create issue templates?
+
+- [About issue and pull request templates](https://help.github.com/en/github/building-a-strong-community/about-issue-and-pull-request-templates)
+
 ## Prerequisites
 
 Please answer the following questions for yourself before submitting an issue. **YOU MAY DELETE THE PREREQUISITES SECTION.**
@@ -41,3 +49,7 @@ Please provide detailed steps for reproducing the issue.
 ### Failure Logs
 
 Please include any relevant log snippets or files here.
+
+## A collection of GitHub issue and pull request templates
+
+*GitHub now also supports [multiple issue templates](https://help.github.com/articles/about-issue-and-pull-request-templates/).
