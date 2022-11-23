@@ -6,7 +6,7 @@
 
 ## How to create issue templates?
 
-- [About issue and pull request templates](https://help.github.com/en/github/building-a-strong-community/about-issue-and-pull-request-templates)
+[About issue and pull request templates](https://help.github.com/en/github/building-a-strong-community/about-issue-and-pull-request-templates)
 
 ## Prerequisites
 
