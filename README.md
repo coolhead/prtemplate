@@ -41,3 +41,14 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 - [ ] I have checked my code and corrected any misspellings
 
 
+## A collection of GitHub issue and pull request templates
+
+*GitHub now also supports [multiple issue templates](https://help.github.com/articles/about-issue-and-pull-request-templates/).
+
+# What is an issue template?
+
+[Issue and Pull Request templates](https://blog.github.com/2016-02-17-issue-and-pull-request-templates/)
+
+# How to create issue templates?
+
+- [About issue and pull request templates](https://help.github.com/en/github/building-a-strong-community/about-issue-and-pull-request-templates)
